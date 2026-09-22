@@ -1,1 +1,2 @@
 bu bir txt dosyasıdır
+sonradan eklenen dosyadır.
