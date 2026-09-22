@@ -1,2 +1,3 @@
 bu bir txt dosyasıdır
 sonradan eklenen dosyadır.
+bu feat branchidir sonrradan yapılan değişikler burda.
