@@ -1,7 +1,7 @@
-# rastgele
+    YAPAY ZEKA ( Artificial Intelligence and Machine Learning )
 🤖 Gündem Yapay Zeka: Kapsamlı Ekosistem ve Rehber
 
-Yapay zeka, sadece bir teknoloji trendi değil; insanlık tarihinin en büyük bilişsel devrimidir. Bu depo, yapay zekanın kökenlerinden bugünkü zirvesine, alt disiplinlerinden gelecekte bizi bekleyen dönüm noktalarına kadar her şeyi derinlemesine ele alan canlı bir bilgi havuzudur.
+Yapay zeka, sadece bir  teknoloji trendi değil; insanlık tarihinin en büyük bilişsel devrimidir. Bu depo, yapay zekanın kökenlerinden bugünkü zirvesine, alt disiplinlerinden gelecekte bizi bekleyen dönüm noktalarına kadar her şeyi derinlemesine ele alan canlı bir bilgi havuzudur.
 
 📑 İçindekiler
 
